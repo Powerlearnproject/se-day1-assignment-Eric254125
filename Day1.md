@@ -9,7 +9,7 @@ Is the process of of designing, developing, testing and maintaining software app
 One of its importance is that it helps systems to be created reliably and efficiently 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-The Birth of Software Engineering (1968) – The term software engineering was first introduced at the NATO Software Engineering Conference to address the growing "software crisis." 
+The Birth of Software Engineering (1968) – The term software engineering was first introduced at the NATO Software Engineering Conference to address the growing "software crisis."
 At the time, software development faced challenges such as inefficiency, cost overruns, and unreliable systems.
 The Rise of Object-Oriented Programming (OOP) (1970s–1980s) – The introduction of OOP revolutionized software design by promoting modularity, code reuse, and better organization.
 The Agile Manifesto (2001) – The publication of the Agile Manifesto introduced a new, flexible approach to software development, emphasizing collaboration, adaptability, and iterative progress.
